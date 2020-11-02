@@ -1,0 +1,7 @@
+[wrap-file]
+
+directory = static_assert
+
+[provide]
+
+boost-static-assert = boost_static_assert_dep

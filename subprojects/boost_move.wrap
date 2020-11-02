@@ -1,0 +1,7 @@
+[wrap-file]
+
+directory = move
+
+[provide]
+
+boost-move = boost_move_dep

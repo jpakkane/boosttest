@@ -1,0 +1,7 @@
+[wrap-file]
+
+directory = core
+
+[provide]
+
+boost-core = boost_core_dep

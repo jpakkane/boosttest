@@ -1,0 +1,7 @@
+[wrap-file]
+
+directory = intrusive
+
+[provide]
+
+boost-intrusive = boost_intrusive_dep

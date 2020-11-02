@@ -1,0 +1,7 @@
+[wrap-file]
+
+directory = container
+
+[provide]
+
+boost-container = boost_container_dep

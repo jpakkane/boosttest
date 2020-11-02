@@ -1,0 +1,7 @@
+[wrap-file]
+
+directory = config
+
+[provide]
+
+boost-config = boost_config_dep
